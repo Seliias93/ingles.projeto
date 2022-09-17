@@ -193,3 +193,8 @@ footer a:hover{
 .logo .ingles{
    background-color: #ffffff;
 }
+
+.dep h2{
+   text-align: center;
+   color: rgb(255, 245, 245);
+}
